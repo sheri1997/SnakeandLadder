@@ -1,0 +1,16 @@
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.exe
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.deps.json
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.runtimeconfig.json
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.runtimeconfig.dev.json
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.dll
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\ref\Snake and Ladder.dll
+D:\Brize\github\Snake and Ladder\Snake and Ladder\bin\Debug\net5.0\Snake and Ladder.pdb
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.csproj.AssemblyReference.cache
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.AssemblyInfoInputs.cache
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.AssemblyInfo.cs
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.csproj.CoreCompileInputs.cache
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.dll
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\ref\Snake and Ladder.dll
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.pdb
+D:\Brize\github\Snake and Ladder\Snake and Ladder\obj\Debug\net5.0\Snake and Ladder.genruntimeconfig.cache

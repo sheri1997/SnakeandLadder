@@ -6,7 +6,10 @@ namespace Snake_and_Ladder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int Position = 0;
+            Random random = new Random();
+            int number = random.Next(0, 6);
+            Console.WriteLine("The number at the Dies is " + number);
         }
     }
 }
